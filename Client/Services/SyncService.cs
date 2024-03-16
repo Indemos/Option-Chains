@@ -1,3 +1,4 @@
+using Ameritrade;
 using Distribution.ServiceSpace;
 using Microsoft.Extensions.Configuration;
 using System;
@@ -5,7 +6,6 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Timers;
-using Terminal.Connector.Ameritrade;
 using Terminal.Core.Models;
 
 namespace Options.Services

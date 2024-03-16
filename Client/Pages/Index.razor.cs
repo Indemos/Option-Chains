@@ -1,3 +1,4 @@
+using Ameritrade;
 using Canvas.Core.Composers;
 using Canvas.Core.Engines;
 using Canvas.Core.Enums;
@@ -15,7 +16,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Terminal.Connector.Ameritrade;
 using Terminal.Core.Enums;
 using Terminal.Core.Extensions;
 using Terminal.Core.Models;
